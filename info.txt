@@ -3,4 +3,4 @@ hyperion = disable
 version = beta 1.0.0
 usermode = kernel
 bypass = true
-logger = false
+python = true
